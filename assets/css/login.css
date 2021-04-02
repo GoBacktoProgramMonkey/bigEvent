@@ -24,3 +24,10 @@ body{
 #reg-box{
     display: none;
 }
+.layui-form-item{
+    padding: 0 20px;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+}
