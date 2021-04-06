@@ -1,0 +1,20 @@
+{
+  "name": "bigeven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env DISABLE_ESLINT=true PORT=8080 roadhog dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoBacktoProgramMonkey/bigEvent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoBacktoProgramMonkey/bigEvent/issues"
+  },
+  "homepage": "https://github.com/GoBacktoProgramMonkey/bigEvent#readme"
+}
